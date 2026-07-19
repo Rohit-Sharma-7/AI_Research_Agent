@@ -1,5 +1,5 @@
 # AI_Research_Agent
-# 🤖 Research Paper AI Agent
+#  Research Paper AI Agent
 
 An Agentic AI-powered research assistant that helps users discover relevant research papers using semantic search, generate concise summaries, extract keywords, and answer research-related queries through LangChain agents.
 
