@@ -1,0 +1,16 @@
+datasets
+numpy
+pandas
+scikit-learn
+sentence-transformers
+transformers
+torch
+faiss-cpu
+keybert
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-groq
+accelerate
+protobuf
