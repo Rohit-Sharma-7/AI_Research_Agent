@@ -1,0 +1,7 @@
+
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("CShorten/ML-ArXiv-Papers")
+
+dataset["train"].to_csv("data/ml_arxiv_papers.csv")
